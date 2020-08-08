@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc416fc3-60d0-4873-8848-5d0d447253c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/makeRecipe.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selectOption.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/viewRecipes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RecipesMaker/META-INF/RecipesMaker.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RecipesMaker/META-INF/RecipesMaker.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RecipesMaker/MainKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RecipesMaker/MainKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,21 +69,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="169" key="GridCell.Tab.0.bottom" timestamp="1596167033124">
+    <state width="1237" height="169" key="GridCell.Tab.0.bottom" timestamp="1596857202228">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1237" height="169" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1596167033124" />
-    <state width="1237" height="169" key="GridCell.Tab.0.center" timestamp="1596167033123">
+    <state width="1237" height="169" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1596857202228" />
+    <state width="1237" height="169" key="GridCell.Tab.0.center" timestamp="1596857202227">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1237" height="169" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1596167033123" />
-    <state width="1237" height="169" key="GridCell.Tab.0.left" timestamp="1596167033123">
+    <state width="1237" height="169" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1596857202227" />
+    <state width="1237" height="169" key="GridCell.Tab.0.left" timestamp="1596857202227">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1237" height="169" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1596167033123" />
-    <state width="1237" height="169" key="GridCell.Tab.0.right" timestamp="1596167033123">
+    <state width="1237" height="169" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1596857202227" />
+    <state width="1237" height="169" key="GridCell.Tab.0.right" timestamp="1596857202227">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1237" height="169" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1596167033123" />
+    <state width="1237" height="169" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1596857202227" />
+    <state x="411" y="56" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1596822242944">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="411" y="56" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1280.760@0.0.1280.760" timestamp="1596822242944" />
   </component>
 </project>
