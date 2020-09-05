@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dc416fc3-60d0-4873-8848-5d0d447253c1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +25,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -71,6 +77,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -78,6 +89,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Nuevas opciones de makeRecipe y viewRecipes, ademas se modularizo el modulo con la opcion selectOption." />
@@ -104,6 +116,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state width="1237" height="169" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1596857396552" />
+    <state x="120" y="0" key="SettingsEditor" timestamp="1599323649616">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="120" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1599323649616" />
     <state x="411" y="56" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1596822242944">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
